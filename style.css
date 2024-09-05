@@ -1,0 +1,123 @@
+* {
+  background-color: black;
+  color: antiquewhite;
+
+}
+
+nav {
+  font-size: large;
+  display: flex;
+
+  justify-content: space-around;
+}
+
+.nav2 {
+  display: flex;
+
+  align-items: center;
+  gap: 40px;
+
+}
+
+.herosection {
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.hotcoffee {
+  width: 30%;
+
+}
+
+h1 {
+  font-size: 40px;
+}
+
+button {
+  background-color: goldenrod;
+}
+
+.perfectsection {
+  padding: 70px;
+  display: flex;
+
+
+}
+
+.coffee {
+  width: 40%;
+  display: flex;
+
+}
+
+.imgsection {
+  display: flex;
+  justify-content: center;
+  justify-content: flex-end;
+
+}
+
+h2 {
+  font-size: 40px;
+}
+
+.productsection {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+
+}
+
+.productbox {
+
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+
+}
+
+.card {
+  padding: 30px;
+  border: 1px solid goldenrod;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h6 {
+  font-size: 30px;
+}
+
+.details {
+  padding: 30px;
+  display: flex;
+
+  justify-content: space-around;
+}
+
+.detailsbox {
+  display: flex;
+  flex-direction: column;
+
+}
+
+hr {
+  width: 70%;
+
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h5 {
+  font-size: 30px;
+}
